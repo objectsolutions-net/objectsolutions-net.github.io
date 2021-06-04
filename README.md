@@ -1,2 +1,1 @@
-# objectsolutions.github.io
-Object Solutions v2
+# Object Solutions v2
